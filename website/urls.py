@@ -7,5 +7,5 @@ urlpatterns = patterns('',
     url(r'^$', 'api.views.home', name='home'),
     url(r'^api/', include('api.urls')),
 
-    # url(r'^admin/', include(admin.site.urls)),
+    url(r'^admin/', include(admin.site.urls)),
 )
