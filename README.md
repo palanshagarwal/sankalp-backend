@@ -1,7 +1,7 @@
 # sankalp-backend
 Backend REST APIs for sankalp club android app
 
-LNMIIT 5th Sem. Academeic Project for SEPM Course.
+LNMIIT 5th Sem. Academic Project for SEPM Course.
 
 ### P25 - Automation of Community Services and Sankalp Club at LNMIIT
 
@@ -10,3 +10,4 @@ List of Community Services and activties undertaken by Sankalp Club, that need t
   2.  **MWEP** - Management of Mess Worker Education Programme (selection of volunteers and session-wise attendance) 
   3.  **Budget Management** - Management of Budget for each Event.
 
+####URL for api request: http://sankalpclub.herokuapp.com/
