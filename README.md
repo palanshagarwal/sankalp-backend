@@ -11,3 +11,6 @@ List of Community Services and activties undertaken by Sankalp Club, that need t
   3.  **Budget Management** - Management of Budget for each Event.
 
 ###URL for api request: http://sankalpclub.herokuapp.com/
+    URI end-point: /api/events
+    GET: Returns List of all events created in JSON format
+    POST: POST a new event to be created in JSON format
