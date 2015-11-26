@@ -14,6 +14,7 @@ from rest_framework import status
 def home(request):
     response = HttpResponse('HOLA')
     return response
+    
 
 class EventList(APIView):
     """
