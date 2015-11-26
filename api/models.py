@@ -14,7 +14,7 @@ class Event(models.Model):
     title = models.CharField(max_length=250,blank = False)
     venue = models.CharField(max_length=250,blank = False)
     description = models.TextField(default=' ')
-    volunteers = models.ManyToManyField(User, blank = True)
+    # volunteers = models.ManyToManyField(User, blank = True)
 
     def __unicode__ (self):
         return self.title
